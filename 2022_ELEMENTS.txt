@@ -1,0 +1,19 @@
+SEARCH	Search
+Z012_TAB_SCREEN-UNIQUE_ID	UNIQUE KEY
+CHECK_UNIQUE_ID	________________
+BTN_SEARCH	@13@ Search
+STATUS_ICON	@00@_____________________________
+GROUP_BOX	Results
+Z012_TAB_SCREEN-PRONUME	PRONUME
+Z012_TAB_SCREEN-PRONUME	____
+ID	ID
+Z012_TAB_SCREEN-UNIQUE_ID	________________
+Z012_TAB_SCREEN-NUME	NUME
+Z012_TAB_SCREEN-NUME	__________________________________________________
+Z012_TAB_SCREEN-PRENUME	PRENUME
+Z012_TAB_SCREEN-PRENUME	__________________________________________________
+Z012_TAB_SCREEN-AN_NASTERE	Data Nastere
+Z012_TAB_SCREEN-AN_NASTERE	________________
+BTN_SAVE	Save
+BNT_CEAR	Clear
+BTN_EXIT	Exit

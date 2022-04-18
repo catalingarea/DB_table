@@ -1,0 +1,11 @@
+PROCESS BEFORE OUTPUT.
+  MODULE get_data.
+  MODULE exit.
+  MODULE clean.
+  MODULE status_icon.
+MODULE clear_help.
+
+PROCESS AFTER INPUT.
+
+  MODULE selection_search_2022.
+    MODULE input_into_db.
